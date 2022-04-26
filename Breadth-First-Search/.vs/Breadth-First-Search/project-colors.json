@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7782e411-9422-4029-ad20-af6b24f46bbc": {
+      "ProjectGuid": "7782e411-9422-4029-ad20-af6b24f46bbc",
+      "DisplayName": "Breadth-First-Search",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
